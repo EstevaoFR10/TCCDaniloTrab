@@ -84,7 +84,6 @@
 | **9.2 Randomização e alocação** | Randomização da ordem das tarefas e da sequência de tratamento (ex: TDD, TD, TDD) para cada participante, feita por sorteio simples. |
 | **9.3 Balanceamento e contrabalanço** | Contrabalanço total: Todos os participantes experimentam ambos os tratamentos em tarefas diferentes, minimizando o efeito de ordem ou aprendizado ao longo do tempo. |
 | **9.4 Número de grupos e sessões** | 1 Grupo de participantes. 1 Sessão de Treinamento e 3 Sessões de Execução (uma para cada tarefa/tratamento). |
-| **9.5 [Imagem do diagrama de design cruzado]** |  |
 
 ## 10. População, sujeitos e amostragem
 
